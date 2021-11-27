@@ -27,7 +27,17 @@ export const LinkContent = [
     },
     {
         icon: 'fab fa-tiktok',
-        url: 'www.tiktok.com/@novacanesounds',
+        url: 'https://tiktok.com/@novacanesounds',
         label: 'TikTok' 
-    }
+    },
+    {
+        icon: 'fab fa-twitch',
+        url: 'https://www.twitch.tv/novacanesounds',
+        label: 'Twitch'
+    },
+    {
+        icon: 'far fa-calendar',
+        url: 'https://linktr.ee/Novacane',
+        label: 'Events'
+    },
 ]
