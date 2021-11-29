@@ -1,8 +1,8 @@
 .logo {
   -webkit-text-stroke: 1px rgb(255, 255, 255);
   -webkit-text-fill-color: rgba(255, 255, 255, 0);
-  font-size: 5vh;
-  padding: 100px 0;
+  font-size: 3vh;
+
   font-family: "Sarabun", sans-serif;
 }
 
@@ -13,13 +13,12 @@
   min-height: 100vh;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  padding: 10px;
 }
-.homeLinks {
+/* .homeLinks {
   top: 0;
   left: 0;
   right: 0;
-  width: 40%;
+
   margin-left: auto;
   margin-right: auto;
-}
+} */
