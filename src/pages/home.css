@@ -2,12 +2,12 @@
   -webkit-text-stroke: 1px rgb(255, 255, 255);
   -webkit-text-fill-color: rgba(255, 255, 255, 0);
   font-size: 3vh;
-
+  padding: 25px;
   font-family: "Sarabun", sans-serif;
 }
 
 .home {
-  background-image: url("../images/background.jpg");
+  background-image: url("../images/backgroundImg.png");
   background-size: cover;
   background-position: center;
   min-height: 100vh;
