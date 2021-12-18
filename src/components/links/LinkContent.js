@@ -1,8 +1,8 @@
 export const LinkContent = [
     {
-        icon: 'fab fa-spotify',
-        url: 'https://open.spotify.com/artist/42FeiTG6C9aGFEjn6ie3JH?si=l3sC8MOcQZiOHcVNd70G6w&dl_branch=1&nd=1',
-        label: 'Spotify',
+        icon: 'far fa-calendar',
+        url: 'https://linktr.ee/Novacane',
+        label: 'Events'
     },
     {
         icon: 'fab fa-apple',
@@ -36,8 +36,8 @@ export const LinkContent = [
         label: 'Twitch'
     },
     {
-        icon: 'far fa-calendar',
-        url: 'https://linktr.ee/Novacane',
-        label: 'Events'
+        icon: 'fab fa-spotify',
+        url: 'https://open.spotify.com/artist/42FeiTG6C9aGFEjn6ie3JH?si=l3sC8MOcQZiOHcVNd70G6w&dl_branch=1&nd=1',
+        label: 'Spotify',
     },
 ]
